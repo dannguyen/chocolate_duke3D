@@ -3,11 +3,13 @@ Chocolate Duke3D
 
 Chocolate Duke Nukem 3D is the equivalent of Chocolate Doom:
 
-A port that:
+It is a port that:
 
-1. Remains a fidele as possible to the original source code.
-2. Portable and compiling in one click on Windows, Mac OSX and Linux.
-3. Aimed at education: A lot of comments and documentation has been added in order to help programmers to understand and learn.
+1. Remains a true as possible to the original source code.
+2. Compiles in one-click on Windows, Mac OSX and Linux.
+3. Aims to educate: A lot of comments and documentation have been added to help programmers to understand and learn the code.
+
+For a discussion of Duke3D's code, [I wrote a four-part walkthrough here.](http://fabiensanglard.net/duke3d/index.php)
 
 Cheers,
 
